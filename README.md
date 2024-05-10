@@ -4,8 +4,7 @@ A selfhost interface to connect to an RCC (only compatible with 2008) and to sen
 
 # requirements
 2008 rcc<br>
-soapui for debugging (by p0s0, you can find it somewhere in the orc as <br>
-it is no longer on github)<br>
+soapui for debugging (by p0s0, you can find it somewhere in the orc as it is no longer on github)<br>
 php (must be added to PATH)
 
 # patches needed
